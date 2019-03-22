@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU}{contact.html}
+= Contact
+
+== Emails
+#- [moyi@gatech.edu]
+#- [guomoyi@gmail.com]
+#~~~
+#{}{img_left}{images/emails.jpg}{Email ids}{75%}{}
+#~~~
+~~~
+{}{raw}
+<script language="JavaScript">
+var username = "moyi";
+var hostname = "gatech.edu";
+var linktext = username + "@" + hostname ;
+document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a><br>");
+
+var username = "guomoyi";
+var hostname = "gmail.com";
+var linktext = username + "@" + hostname ;
+document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+
+</script>
+~~~
+
+== Address
+~~~
+{}{img_left}{ISyE.png}{ISyE Main Building}{350px}{}{https://www.isye.gatech.edu}
+#==== Office
+#349 Gates Hall, 107 Hoy Road
+#\nIthaca, NY  14853
+Georgia Tech\n
+H.Milton Stewart School of Industrial and System Engineering\n
+755 Ferst Drive NW\n
+Atlanta, GA  30332
+~~~
+
+
+== Find me online
+~~~
+{}{raw}
+<ul class="icons">
+<li><a href="https://www.facebook.com/profile.php?id=100013011395255" class="fa fa-facebook solo"><span>Facebook</span></a></li>
+<li><a href="https://github.com/MoyiGuo" class="fa fa-github solo"><span>Github</span></a></li>
+<!--li><a href="#" class="fa fa-dribbble solo"><span>Dribbble</span></a></li-->
+<!-- <li><a href="http://www.twitter.com/ashudeepsingh" class="fa fa-twitter solo"><span>Twitter</span></a></li> -->
+<!-- <li><a href="http://plus.google.com/+AshudeepSingh" class="fa fa-google-scholar-square solo"><span>Google+</span></a></li> -->
+<!--li><a href="https://www.linkedin.com/in/minghe-zhang-69378713b/" class="fa fa-linkedin solo"><span>LinkedIn</span></a></li>
+<!-- <li><a href="http://instagram.com/ashudeep21" class="fa fa-instagram solo"><span>Instagram</span></a></li> -->
+</ul>
+~~~
